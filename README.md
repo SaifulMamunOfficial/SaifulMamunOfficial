@@ -18,21 +18,21 @@
 
 ### 👨‍💻 **Who am I?**
 
-I am a highly motivated and detail-oriented **Full-Stack Developer** based in Bangladesh. I love to design, build, and scale web applications. When I'm not writing code, I'm probably exploring new architectures, reading tech blogs, or optimizing existing systems.
+I am a highly motivated and detail-oriented **Full-Stack Developer** based in Bangladesh with a deep passion for building robust and scalable web applications. Over the years, I have honed my skills in modern backend engineering, specifically focusing on the **PHP and Laravel** ecosystem, alongside frontend technologies like JavaScript and Tailwind. I enjoy tackling complex architectural problems, designing clean APIs, and continuously optimizing systems for better performance. Beyond coding, I am an avid learner, constantly exploring new advancements in **System Design, Cloud Deployment, and Artificial Intelligence** to stay ahead of the curve. My ultimate goal is to craft digital experiences that not only solve real-world problems but also leave a lasting impact on users.
 
 <table width="100%">
   <tr>
-    <td width="55%">
+    <td width="60%">
       <ul>
-        <li>💼 Currently working on: <strong>Enterprise Web Solutions & APIs</strong></li>
+        <li>💼 Currently working on: <strong>Enterprise Web Solutions & RESTful APIs</strong></li>
         <li>🌱 Currently learning: <strong>System Architecture, Cloud Deployment & AI</strong></li>
-        <li>🎯 Goals: <strong>Mastering Advanced System Design & DevOps</strong></li>
+        <li>🎯 Goals: <strong>Mastering Advanced System Design & DevOps Practices</strong></li>
         <li>💬 Ask me about: <strong>PHP, Laravel, JavaScript, MySQL, API Design</strong></li>
         <li>📫 Reach me at: <strong>[Add Your Email]</strong></li>
       </ul>
     </td>
-    <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulMamunOfficial&layout=donut&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" alt="Top Languages" width="100%" />
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulMamunOfficial&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
