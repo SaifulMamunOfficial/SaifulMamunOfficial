@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=28&pause=2000&color=00C9FF&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+MY+UNIVERSE" alt="Welcome to my Universe" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=28&color=00C9FF&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+MY+UNIVERSE&repeat=false" alt="Welcome to my Universe" />
   
   <a href="https://github.com/SaifulMamunOfficial">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Turning+ideas+into+real-life+products;Passionate+about+modern+web+technologies;Specialized+in+PHP+and+Laravel+ecosystem;Building+scalable+and+secure+applications" alt="What I do" />
