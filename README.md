@@ -1,84 +1,80 @@
-<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=300&section=header&text=Saiful%20Mamun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%7C%20Laravel&descAlignY=55&descAlign=62&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Saiful%20Mamun&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-  <b>Hey there! I'm Saiful Mamun</b>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
+  <b>Welcome to my GitHub Universe!</b>
 </h3>
 
 <p align="center">
-  <i>A passionate software engineer specializing in web development, crafting modern and scalable applications.</i>
-</p>
-
-<p align="center">
   <a href="https://github.com/SaifulMamunOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=💻+Full-Stack+Web+Developer;🚀+Building+awesome+applications;💡+Always+learning+new+tech;🌐+PHP,+Laravel,+React" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=🔥+Turning+ideas+into+real+life+products;💻+Passionate+about+Web+Technologies;🚀+Specialized+in+PHP+%26+Laravel;🌍+Building+scalable+and+secure+applications" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Social Links -->
-<div align="center">
-  <a href="https://linkedin.com/in/saifulmamunofficial"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/SaifulMamunOfficial"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://facebook.com/SaifulMamunOfficial"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-</div>
-
-<br>
-
-<!-- About Me -->
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Awesome Laravel & Web Projects**
-- 🌱 I’m currently learning **Advanced Cloud Architecture & AI Integrations**
-- 💬 Ask me about **PHP, Laravel, MySQL, JavaScript**
-- ⚡ Fun fact: **I love turning coffee into code! ☕**
-
-</td>
-<td width="50%">
-
-### 📈 Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SaifulMamunOfficial&label=Profile%20views&color=00C9FF&style=for-the-badge" alt="SaifulMamunOfficial" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaifulMamunOfficial&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
-</td>
-</tr>
+---
+
+### 👨‍💻 **Who am I?**
+
+I am a highly motivated and detail-oriented **Full-Stack Developer** based in Bangladesh. I love to design, build, and scale web applications. When I'm not writing code, I'm probably exploring new architectures, reading tech blogs, or optimizing existing systems.
+
+<table width="100%">
+  <tr>
+    <td width="55%">
+      <ul>
+        <li>💼 Currently working on: <strong>Enterprise Web Solutions & APIs</strong></li>
+        <li>🌱 Currently learning: <strong>System Architecture, Cloud Deployment & AI</strong></li>
+        <li>🎯 Goals: <strong>Mastering Advanced System Design & DevOps</strong></li>
+        <li>💬 Ask me about: <strong>PHP, Laravel, JavaScript, MySQL, API Design</strong></li>
+        <li>📫 Reach me at: <strong>[Add Your Email]</strong></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulMamunOfficial&layout=donut&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
 </table>
 
-<!-- Skills Section -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+---
+
+### ⚡ **Tech Stack & Tools**
+
+Here is a list of technologies I work with on a daily basis:
+
+**Backend & Database**<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,redis,mongodb" />
+
+**Frontend Technologies**<br>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap" />
+
+**DevOps, Tools & Platforms**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,figma" />
+
+---
+
+### 🏆 **GitHub Trophies**
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,html,css,tailwind,bootstrap,mysql,postgres" /><br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman,figma,react,nodejs" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaifulMamunOfficial&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
-<br>
+---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 My GitHub Analytics</h3>
+### 📈 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifulMamunOfficial&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulMamunOfficial&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" alt="Top Languages" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifulMamunOfficial&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=ffffff" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaifulMamunOfficial&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifulMamunOfficial&theme=onedark&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
-<!-- Snake Graph -->
-<h3 align="center">🐍 My Contribution Graph</h3>
+<h3 align="center">🐍 <b>Contribution Activity</b></h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaifulMamunOfficial/SaifulMamunOfficial/output/github-contribution-grid-snake-dark.svg">
@@ -87,9 +83,27 @@
   </picture>
 </div>
 
-*(Note: The snake animation requires a GitHub Action to be setup in this repo to run successfully. If it is broken, you can remove this section or setup the GitHub Actions workflow for the snake.)*
+*(Requires GitHub Actions to be setup to run the snake animation)*
 
-<br>
+---
+
+### 🤝 **Let's Connect**
+
+<p align="center">
+  <a href="https://linkedin.com/in/saifulmamunofficial">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/SaifulMamunOfficial">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/SaifulMamunOff">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://discord.com/users/yourdiscordid">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
