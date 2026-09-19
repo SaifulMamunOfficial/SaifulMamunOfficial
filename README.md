@@ -24,10 +24,6 @@
       <img src="profile.jpg" width="250" alt="Saiful Mamun" />
     </td>
     <td width="65%" valign="middle">
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="25" /> 
-        Who am I?
-      </h3>
       I am a highly motivated and detail-oriented <b>Full-Stack Developer</b> based in Bangladesh with a deep passion for building robust and scalable web applications. Over the years, I have honed my skills in modern backend engineering, specifically focusing on the <b>PHP and Laravel</b> ecosystem, alongside frontend technologies like JavaScript and Tailwind. 
       <br><br>
       I enjoy tackling complex architectural problems, designing clean APIs, and continuously optimizing systems for better performance. Beyond coding, I am an avid learner, constantly exploring new advancements in <b>System Design, Cloud Deployment, and Artificial Intelligence</b> to stay ahead of the curve.
