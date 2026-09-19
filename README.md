@@ -44,22 +44,19 @@
 ### 📈 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaifulMamunOfficial&show_icons=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifulMamunOfficial&theme=onedark&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifulMamunOfficial&theme=onedark&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=ffffff" alt="GitHub Streak" width="55%" />
 </div>
 
 <br>
 
-<h3 align="center">🐍 <b>Contribution Activity</b></h3>
 <div align="center">
+  <h3>🐍 Contribution Activity</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaifulMamunOfficial/SaifulMamunOfficial/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaifulMamunOfficial/SaifulMamunOfficial/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaifulMamunOfficial/SaifulMamunOfficial/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SaifulMamunOfficial/SaifulMamunOfficial/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-*(Requires GitHub Actions to be setup to run the snake animation)*
 
 ---
 
