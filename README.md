@@ -16,20 +16,37 @@
 
 ---
 
-### 👨‍💻 **Who am I?**
+<h2 align="center">✦ A B O U T &nbsp; M E ✦</h2>
 
-I am a highly motivated and detail-oriented **Full-Stack Developer** based in Bangladesh with a deep passion for building robust and scalable web applications. Over the years, I have honed my skills in modern backend engineering, specifically focusing on the **PHP and Laravel** ecosystem, alongside frontend technologies like JavaScript and Tailwind. I enjoy tackling complex architectural problems, designing clean APIs, and continuously optimizing systems for better performance. Beyond coding, I am an avid learner, constantly exploring new advancements in **System Design, Cloud Deployment, and Artificial Intelligence** to stay ahead of the curve. My ultimate goal is to craft digital experiences that not only solve real-world problems but also leave a lasting impact on users.
-
-<p align="left">
-  <img align="right" src="https://media.giphy.com/media/qgQUggCGvnPcsExzRi/giphy.gif" width="220" />
-  <br>
-  💼 <b>Working on:</b> Enterprise Web Solutions & RESTful APIs <br><br>
-  🌱 <b>Learning:</b> System Architecture, Cloud Deployment & AI <br><br>
-  🎯 <b>Goals:</b> Mastering Advanced System Design & DevOps Practices <br><br>
-  💬 <b>Ask me about:</b> PHP, Laravel, JavaScript, MySQL, API Design <br><br>
-  📫 <b>Reach me at:</b> <a href="mailto:your.email@example.com"><b>[Add Your Email]</b></a>
-</p>
-<br clear="both">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="25" /> 
+        Developer Info
+      </h3>
+      <p>
+        <code><b>$ whoami</b></code><br>
+        I am a highly motivated <b>Full-Stack Developer</b> based in Bangladesh with a deep passion for building robust and scalable web applications. Over the years, I have honed my skills in modern backend engineering, specifically focusing on the <b>PHP and Laravel</b> ecosystem.
+      </p>
+      <p>
+        <code><b>$ focus --current</b></code><br>
+        Building Enterprise Web Solutions & secure RESTful APIs, and continuously optimizing systems for better performance.
+      </p>
+      <p>
+        <code><b>$ learning --next</b></code><br>
+        Exploring <b>Cloud Deployment</b>, Advanced System Design, and integrating <b>AI capabilities</b> into modern applications.
+      </p>
+      <p>
+        <code><b>$ contact --email</b></code><br>
+        <a href="mailto:your.email@example.com">Send me an email! ✉️</a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggCGvnPcsExzRi/giphy.gif" width="230" />
+    </td>
+  </tr>
+</table>
 
 ---
 
