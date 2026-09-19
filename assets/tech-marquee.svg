@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="64" viewBox="0 0 880 64">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4500 256.0" width="100%">
   <style>
     @keyframes marquee {
       0%   { transform: translateX(0); }
-      100% { transform: translateX(-1229.25px); }
+      100% { transform: translateX(-6556.0px); }
     }
     .animate-marquee {
-      animation: marquee 20s linear infinite;
+      animation: marquee 25s linear infinite;
     }
   </style>
   <g class="animate-marquee">
-    <g id="marquee-content" transform="translate(0, 8)">
+    <g id="marquee-content">
       
     
         <g transform="translate(0, 0)">
@@ -141,6 +141,6 @@
         
   
     </g>
-    <use href="#marquee-content" xlink:href="#marquee-content" x="1229.25" y="0" />
+    <use href="#marquee-content" xlink:href="#marquee-content" x="6556.0" y="0" />
   </g>
 </svg>
