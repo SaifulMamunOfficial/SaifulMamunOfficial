@@ -2,20 +2,20 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Saiful%20Mamun&fontSize=80&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=20" alt="Header" />
 </div>
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" />
-  <b>Welcome to my GitHub Universe!</b>
-</h3>
+<div align="center">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
+    <b>Welcome to my GitHub Universe!</b>
+  </h2>
 
-<p align="center">
   <a href="https://github.com/SaifulMamunOfficial">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=🔥+Turning+ideas+into+real+life+products;💻+Passionate+about+Web+Technologies;🚀+Specialized+in+PHP+%26+Laravel;🌍+Building+scalable+and+secure+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+life+products;Passionate+about+Web+Technologies;Specialized+in+PHP+and+Laravel;Building+scalable+and+secure+apps" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
+  
+  <br><br>
+  
   <img src="https://komarev.com/ghpvc/?username=SaifulMamunOfficial&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
