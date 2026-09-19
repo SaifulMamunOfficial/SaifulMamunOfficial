@@ -41,14 +41,6 @@
 
 ---
 
-### 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaifulMamunOfficial&theme=onedark&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-</p>
-
----
-
 ### 📈 **GitHub Analytics**
 
 <div align="center">
