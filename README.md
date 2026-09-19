@@ -20,22 +20,16 @@
 
 I am a highly motivated and detail-oriented **Full-Stack Developer** based in Bangladesh with a deep passion for building robust and scalable web applications. Over the years, I have honed my skills in modern backend engineering, specifically focusing on the **PHP and Laravel** ecosystem, alongside frontend technologies like JavaScript and Tailwind. I enjoy tackling complex architectural problems, designing clean APIs, and continuously optimizing systems for better performance. Beyond coding, I am an avid learner, constantly exploring new advancements in **System Design, Cloud Deployment, and Artificial Intelligence** to stay ahead of the curve. My ultimate goal is to craft digital experiences that not only solve real-world problems but also leave a lasting impact on users.
 
-<table width="100%">
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>💼 Currently working on: <strong>Enterprise Web Solutions & RESTful APIs</strong></li>
-        <li>🌱 Currently learning: <strong>System Architecture, Cloud Deployment & AI</strong></li>
-        <li>🎯 Goals: <strong>Mastering Advanced System Design & DevOps Practices</strong></li>
-        <li>💬 Ask me about: <strong>PHP, Laravel, JavaScript, MySQL, API Design</strong></li>
-        <li>📫 Reach me at: <strong>[Add Your Email]</strong></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifulMamunOfficial&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img align="right" src="https://media.giphy.com/media/qgQUggCGvnPcsExzRi/giphy.gif" width="220" />
+  <br>
+  💼 <b>Working on:</b> Enterprise Web Solutions & RESTful APIs <br><br>
+  🌱 <b>Learning:</b> System Architecture, Cloud Deployment & AI <br><br>
+  🎯 <b>Goals:</b> Mastering Advanced System Design & DevOps Practices <br><br>
+  💬 <b>Ask me about:</b> PHP, Laravel, JavaScript, MySQL, API Design <br><br>
+  📫 <b>Reach me at:</b> <a href="mailto:your.email@example.com"><b>[Add Your Email]</b></a>
+</p>
+<br clear="both">
 
 ---
 
