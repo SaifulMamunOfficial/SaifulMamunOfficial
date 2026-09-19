@@ -36,7 +36,7 @@
 ### ⚡ **Tech Stack & Tools**
 
 <div align="center">
-  <img src="assets/tech-marquee.svg" alt="Tech Stack Marquee" />
+  <img src="assets/tech-marquee.svg" alt="Tech Stack Marquee" width="100%" />
 </div>
 
 ---

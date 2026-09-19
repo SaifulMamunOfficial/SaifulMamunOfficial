@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 64" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="64" viewBox="0 0 880 64">
   <style>
     @keyframes marquee {
       0%   { transform: translateX(0); }
       100% { transform: translateX(-1408px); }
     }
     .animate-marquee {
-      animation: marquee 25s linear infinite;
+      animation: marquee 20s linear infinite;
     }
   </style>
   <g class="animate-marquee">
