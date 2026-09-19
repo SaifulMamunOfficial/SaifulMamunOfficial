@@ -3,18 +3,15 @@
 </div>
 
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
-    <b>Welcome to my GitHub Universe!</b>
-  </h2>
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=28&pause=2000&color=00C9FF&center=true&vCenter=true&width=500&height=50&lines=WELCOME+TO+MY+UNIVERSE" alt="Welcome to my Universe" />
+  
   <a href="https://github.com/SaifulMamunOfficial">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+life+products;Passionate+about+Web+Technologies;Specialized+in+PHP+and+Laravel;Building+scalable+and+secure+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=Turning+ideas+into+real-life+products;Passionate+about+modern+web+technologies;Specialized+in+PHP+and+Laravel+ecosystem;Building+scalable+and+secure+applications" alt="What I do" />
   </a>
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=SaifulMamunOfficial&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SaifulMamunOfficial&label=VISITORS&color=00C9FF&labelColor=1F2328&style=for-the-badge&logo=github&logoColor=00C9FF" alt="Profile Views" />
 </div>
 
 ---
