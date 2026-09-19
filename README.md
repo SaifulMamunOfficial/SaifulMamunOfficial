@@ -35,16 +35,9 @@
 
 ### ⚡ **Tech Stack & Tools**
 
-Here is a list of technologies I work with on a daily basis:
-
-**Backend & Database**<br>
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres,redis,mongodb" />
-
-**Frontend Technologies**<br>
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap" />
-
-**DevOps, Tools & Platforms**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,figma" />
+<div align="center">
+  <img src="assets/tech-marquee.svg" alt="Tech Stack Marquee" />
+</div>
 
 ---
 
